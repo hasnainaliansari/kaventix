@@ -1,0 +1,260 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Development",
+        "slug": "frontend-development",
+        "tags": [
+            "UI/UX",
+            "Responsive",
+            "Performance",
+            "Cross-browser"
+        ],
+        "description": "We create pixel-perfect, responsive interfaces using modern frameworks that deliver seamless user experiences.",
+        "overview": [
+            "We build intuitive frontends that are fast, accessible, and device-agnostic.",
+            "Whether you're building a landing page or a complex web app \u2014 we've got you covered."
+        ],
+        "benefits": [
+            "Highly responsive UI across devices",
+            "Clean, maintainable codebase",
+            "Cross-browser compatibility",
+            "Interactive components with smooth animations",
+            "Modern frameworks: React, Vue, Next.js",
+            "Rapid development with Tailwind & MUI"
+        ],
+        "skills": {
+            "UI/UX Design": "85%",
+            "Frontend Engineering": "92%"
+        },
+        "coverImage": "/assets/img/service/frontend-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png",
+            "/assets/img/service/service-slide1.png"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Backend Development",
+        "slug": "backend-development",
+        "tags": [
+            "APIs",
+            "Security",
+            "Scalability",
+            "Laravel"
+        ],
+        "description": "Scalable and secure backend systems built to handle modern data workloads and business logic.",
+        "overview": [
+            "We engineer secure, fast, and scalable backend systems for web and mobile apps.",
+            "From API integrations to complex business logic \u2014 our team handles it all."
+        ],
+        "benefits": [
+            "REST & GraphQL APIs",
+            "Role-based authentication",
+            "Database optimization (MySQL, MongoDB)",
+            "Real-time updates with sockets",
+            "Frameworks: Node.js, Laravel, Django"
+        ],
+        "skills": {
+            "Server-Side Logic": "93%",
+            "Database Modeling": "88%"
+        },
+        "coverImage": "/assets/img/service/backend-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Mobile App Development",
+        "slug": "mobile-app-development",
+        "tags": [
+            "Flutter",
+            "React Native",
+            "iOS",
+            "Android",
+            "Firebase"
+        ],
+        "description": "We build high-performance mobile apps for iOS and Android with a focus on usability and scalability.",
+        "overview": [
+            "Our mobile apps are built using cross-platform frameworks and native tech.",
+            "From MVP to full-featured apps, we deliver seamless mobile experiences."
+        ],
+        "benefits": [
+            "Cross-platform development with Flutter & React Native",
+            "Native iOS and Android support",
+            "Firebase & Firestore integration",
+            "App Store and Play Store deployment",
+            "Performance-optimized mobile UX"
+        ],
+        "skills": {
+            "Flutter & React Native": "90%",
+            "Mobile UX": "86%"
+        },
+        "coverImage": "/assets/img/service/mobileapp-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "QA & Testing",
+        "slug": "qa-testing",
+        "tags": [
+            "Manual",
+            "Automation",
+            "Bugs",
+            "Load Testing"
+        ],
+        "description": "We ensure quality and stability through rigorous testing across devices and scenarios.",
+        "overview": [
+            "Our QA team helps you ship reliable and bug-free products.",
+            "We use both manual and automated methods to cover every use case."
+        ],
+        "benefits": [
+            "Manual & Automated Testing",
+            "Regression & Performance Testing",
+            "Bug tracking and reporting",
+            "Cross-platform testing",
+            "Usability and functional testing"
+        ],
+        "skills": {
+            "Automation": "80%",
+            "Manual QA": "92%"
+        },
+        "coverImage": "/assets/img/service/qa-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Graphic & Video Content",
+        "slug": "graphic-video-content",
+        "tags": [
+            "Branding",
+            "Editing",
+            "Reels",
+            "Visuals"
+        ],
+        "description": "We design bold visuals and edit videos that connect with audiences and drive clicks.",
+        "overview": [
+            "Our content creation services include branding, social media assets, and full video editing.",
+            "We help brands look sharp, on every platform."
+        ],
+        "benefits": [
+            "Social media visuals & carousels",
+            "Ad creatives and promo videos",
+            "Animations and explainers",
+            "Brand style guide development",
+            "Reels, YouTube editing"
+        ],
+        "skills": {
+            "Design & Visuals": "89%",
+            "Video Editing": "91%"
+        },
+        "coverImage": "/assets/img/service/graphic-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Social Media Management",
+        "slug": "social-media-management",
+        "tags": [
+            "Content",
+            "Posting",
+            "Engagement",
+            "Growth"
+        ],
+        "description": "We manage your brand\u2019s presence and keep your audience engaged on every platform.",
+        "overview": [
+            "We build and execute strategies that grow communities and increase awareness.",
+            "From daily posting to influencer collaboration \u2014 we do it all."
+        ],
+        "benefits": [
+            "Multi-platform strategy",
+            "Content planning and scheduling",
+            "Community management",
+            "Campaign reporting",
+            "Hashtag strategy and growth"
+        ],
+        "skills": {
+            "Engagement Strategy": "88%",
+            "Posting Consistency": "94%"
+        },
+        "coverImage": "/assets/img/service/Social-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Marketing & SEO",
+        "slug": "marketing-seo",
+        "tags": [
+            "Google Ads",
+            "Meta Ads",
+            "SEO",
+            "Content"
+        ],
+        "description": "We drive traffic and results with paid campaigns and smart SEO strategies.",
+        "overview": [
+            "Our SEO and marketing plans are conversion-focused and data-driven.",
+            "We help businesses grow through visibility, traffic, and engagement."
+        ],
+        "benefits": [
+            "Google Ads & Meta Ads",
+            "On-page SEO and audits",
+            "Content optimization",
+            "Keyword research",
+            "Campaign analytics & reporting"
+        ],
+        "skills": {
+            "SEO Optimization": "87%",
+            "Ad Management": "91%"
+        },
+        "coverImage": "/assets/img/service/blog-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Business Consulting",
+        "slug": "business-consulting",
+        "tags": [
+            "Strategy",
+            "Digital Transformation",
+            "Startup"
+        ],
+        "description": "We guide companies on tech strategy, scaling operations, and building winning products.",
+        "overview": [
+            "We help startups and enterprises turn vision into reality.",
+            "From product roadmaps to tech stack decisions \u2014 we consult on what matters most."
+        ],
+        "benefits": [
+            "Startup & tech advisory",
+            "Product planning & validation",
+            "Workflow automation",
+            "Scaling strategy",
+            "Digital transformation guidance"
+        ],
+        "skills": {
+            "Strategy & Planning": "90%",
+            "Business Transformation": "88%"
+        },
+        "coverImage": "/assets/img/service/business-banner.jpg",
+        "slides": [
+            "/assets/img/service/service-slide1.png",
+            "/assets/img/service/service-slide2.png"
+        ]
+    }
+]

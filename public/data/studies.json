@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "coverImage": "/assets/img/portfolio/unrealpays-cover.jpg",
+    "info": {
+      "Category": "Job Portal & HR Services",
+      "Software": "PHP, jQuery, Bootstrap, GSAP, SQLyog, Laragon",
+      "Clients": "UnrealPays",
+      "Locations": "Online",
+      "Date": "2024-03-01"
+    },
+    "downloadLink": "/assets/docs/unrealpays-portfolio.pdf",
+    "factsTitle": "Streamlined hiring and job search platform",
+    "challenge": [
+      "Integrated LinkedIn login for fast user onboarding.",
+      "Built dynamic job loading with AJAX and jQuery for better UX."
+    ],
+    "challengeImages": [
+      "/assets/img/portfolio/unrealpays-1.jpg",
+      "/assets/img/portfolio/unrealpays-2.jpg"
+    ],
+    "results": [
+      "Enabled users to apply via QR code for mobile redirection.",
+      "Developed web dashboard with save-to-favorites and subscription options.",
+      "HR-side features for managing applicants and premium tools.",
+      "Improved performance using GSAP animations and Bootstrap layout."
+    ],
+    "skills": {
+      "PHP Integration": "95%",
+      "User Experience": "90%"
+    },
+    "slides": [
+      "/assets/img/blog/unrealpays-slide1.jpg",
+      "/assets/img/blog/unrealpays-slide2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "coverImage": "/assets/img/portfolio/fastauth-cover.jpg",
+    "info": {
+      "Category": "eCommerce Checkout",
+      "Software": "PHP, jQuery, Bootstrap, GSAP, SQLyog, Laragon",
+      "Clients": "FastAuth",
+      "Locations": "Global",
+      "Date": "2024-03-15"
+    },
+    "downloadLink": "/assets/docs/fastauth-portfolio.pdf",
+    "factsTitle": "High-converting guest checkout system",
+    "challenge": [
+      "Streamlined guest checkout flow with minimal steps.",
+      "Integrated upsell features and payment logic."
+    ],
+    "challengeImages": [
+      "/assets/img/portfolio/fastauth-1.jpg",
+      "/assets/img/portfolio/fastauth-2.jpg"
+    ],
+    "results": [
+      "Achieved 80% user conversion rate.",
+      "35% increase in cart value with in-cart upsells.",
+      "95% successful checkout completion via credit/debit cards.",
+      "Simple email/Google login and demo booking."
+    ],
+    "skills": {
+      "Conversion Optimization": "98%",
+      "Checkout Flow Design": "97%"
+    },
+    "slides": [
+      "/assets/img/blog/fastauth-slide1.jpg",
+      "/assets/img/blog/fastauth-slide2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "coverImage": "/assets/img/portfolio/blueolive-cover.jpg",
+    "info": {
+      "Category": "AI Development Tool",
+      "Software": "PHP, jQuery, Bootstrap, GSAP, SQLyog, Laragon",
+      "Clients": "BlueOlive Inc.",
+      "Locations": "United States",
+      "Date": "2024-04-01"
+    },
+    "downloadLink": "/assets/docs/blueolive-portfolio.pdf",
+    "factsTitle": "Natural language to code generator",
+    "challenge": [
+      "Enabled code generation through plain language prompts.",
+      "Created UI/UX to serve both devs and non-tech users."
+    ],
+    "challengeImages": [
+      "/assets/img/portfolio/blueolive-1.jpg",
+      "/assets/img/portfolio/blueolive-2.jpg"
+    ],
+    "results": [
+      "20x faster project generation for web, Shopify, WooCommerce.",
+      "Fully responsive and production-ready code generation.",
+      ".DEV assistant created for UI editing, debugging, and deployment.",
+      "Empowered teams to ship MVPs in less than a day."
+    ],
+    "skills": {
+      "AI Prompt Engineering": "95%",
+      "UX/UI Automation": "90%"
+    },
+    "slides": [
+      "/assets/img/blog/blueolive-slide1.jpg",
+      "/assets/img/blog/blueolive-slide2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "coverImage": "/assets/img/portfolio/optimusdevs-cover.jpg",
+    "info": {
+      "Category": "Software Company Website",
+      "Software": "PHP, jQuery, Bootstrap, GSAP, SQLyog, Laragon",
+      "Clients": "OptimusDevs",
+      "Locations": "United States",
+      "Date": "2024-04-10"
+    },
+    "downloadLink": "/assets/docs/optimusdevs-portfolio.pdf",
+    "factsTitle": "Corporate site for a full-service tech agency",
+    "challenge": [
+      "Built a clean, service-driven layout to showportfolio diverse offerings.",
+      "Focused on performance and content delivery."
+    ],
+    "challengeImages": [
+      "/assets/img/portfolio/optimusdevs-1.jpg",
+      "/assets/img/portfolio/optimusdevs-2.jpg"
+    ],
+    "results": [
+      "Displayed all services including SEO, dev, editing, SMM, and AWS hosting.",
+      "Integrated contact forms for lead capture and inquiries.",
+      "Built SEO-optimized, scalable design system."
+    ],
+    "skills": {
+      "Corporate Web Design": "96%",
+      "Multi-Service Architecture": "92%"
+    },
+    "slides": [
+      "/assets/img/blog/optimusdevs-slide1.jpg",
+      "/assets/img/blog/optimusdevs-slide2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "coverImage": "/assets/img/portfolio/unrealpos-cover.jpg",
+    "info": {
+      "Category": "Point of Sale System",
+      "Software": "PHP, jQuery, Bootstrap, GSAP, SQLyog, Laragon",
+      "Clients": "UnrealPOS",
+      "Locations": "Retail / Store-Based",
+      "Date": "2024-04-22"
+    },
+    "downloadLink": "/assets/docs/unrealpos-portfolio.pdf",
+    "factsTitle": "POS system for store-based sales",
+    "challenge": [
+      "Built POS system for invoicing, sales, and product tracking.",
+      "Designed clean UI for business staff and owners."
+    ],
+    "challengeImages": [
+      "/assets/img/portfolio/unrealpos-1.jpg",
+      "/assets/img/portfolio/unrealpos-2.jpg"
+    ],
+    "results": [
+      "Enabled real-time invoice creation and customer handling.",
+      "Responsive design suitable for tablets and desktops.",
+      "Improved business operations for small and mid-sized retailers."
+    ],
+    "skills": {
+      "POS Development": "94%",
+      "Inventory Workflow": "90%"
+    },
+    "slides": [
+      "/assets/img/blog/unrealpos-slide1.jpg",
+      "/assets/img/blog/unrealpos-slide2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "coverImage": "/assets/img/portfolio/billwrightly-cover.jpg",
+    "info": {
+      "Category": "Invoicing & Payments",
+      "Software": "PHP, jQuery, Bootstrap, GSAP, SQLyog, Laragon",
+      "Clients": "BillWrightly",
+      "Locations": "Online",
+      "Date": "2024-05-01"
+    },
+    "downloadLink": "/assets/docs/billwrightly-portfolio.pdf",
+    "factsTitle": "Digital invoicing made simple",
+    "challenge": [
+      "Created platform for sending and tracking invoices.",
+      "Integrated multiple payment methods and templates."
+    ],
+    "challengeImages": [
+      "/assets/img/portfolio/billwrightly-1.jpg",
+      "/assets/img/portfolio/billwrightly-2.jpg"
+    ],
+    "results": [
+      "Users can send estimates, invoices, and payment reminders.",
+      "24/7 payments via card, Apple Pay, Google Pay, ACH transfer.",
+      "Added features like multi-package estimates and milestone billing.",
+      "Demo booking enabled using just email."
+    ],
+    "skills": {
+      "Invoice System": "96%",
+      "Payment Integration": "94%"
+    },
+    "slides": [
+      "/assets/img/blog/billwrightly-slide1.jpg",
+      "/assets/img/blog/billwrightly-slide2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "coverImage": "/assets/img/portfolio/autvora-cover.jpg",
+    "info": {
+      "Category": "Car Trading & Auction",
+      "Software": "Flutter, Firebase, Dart, Firestore",
+      "Clients": "Global Car Buyers & Sellers",
+      "Locations": "Japan to Worldwide",
+      "Date": "2025-07-18"
+    },
+    "downloadLink": "/assets/docs/autvora-portfolio.pdf",
+    "factsTitle": "Buy, Sell, and Auction Japanese Cars Globally",
+    "challenge": [
+      "Developed a cross-platform mobile app to import/export cars from Japan to any country.",
+      "Built a real-time bidding auction system with countdown timers and fixed price logic.",
+      "Added ability to instantly buy a car if user pays immediately before auction ends.",
+      "Integrated Google Sign-In and email OTP for fast and secure onboarding.",
+      "Implemented security deposit feature for sellers to verify before listing cars.",
+      "Prevented direct contact between buyers and sellers to reduce fraud.",
+      "Ensured real-time push notifications for bidding updates, new offers, and auction results."
+    ],
+    "challengeImages": [
+      "/assets/img/portfolio/autvora-1.jpg",
+      "/assets/img/portfolio/autvora-2.jpg"
+    ],
+    "results": [
+      "Thousands of verified users globally can now participate in car auctions from Japan.",
+      "Buyers can either bid or instantly purchase cars using fixed price feature.",
+      "Security deposit system increased seller authenticity and trust level.",
+      "Direct contact prevention significantly reduced fraudulent activities.",
+      "Streamlined user journey from sign-up to successful car purchase/export.",
+      "All data synced and secured in Firestore, with real-time updates.",
+      "Auction winners auto-notified and matched upon seller approval of bid."
+    ],
+    "skills": {
+      "Flutter App Development": "98%",
+      "Firebase Integration": "96%",
+      "Auction Logic & Bidding System": "97%",
+      "User Verification & Security": "95%",
+      "Firestore & Cloud Functions": "94%",
+      "Push Notifications (FCM)": "93%"
+    },
+    "slides": [
+      "/assets/img/blog/autvora-slide1.jpg",
+      "/assets/img/blog/autvora-slide2.jpg"
+    ]
+  },
+  {
+  "id": 8,
+  "coverImage": "/assets/img/portfolio/moveit-cover.jpg",
+  "info": {
+    "Category": "File Sharing",
+    "Software": "Flutter, Firebase, Dart, Firestore, Firebase Storage",
+    "Clients": "General Users",
+    "Locations": "Cross-Platform (Android & iOS)",
+    "Date": "2025-07-10"
+  },
+  "downloadLink": "/assets/docs/moveit-portfolio.pdf",
+  "factsTitle": "Seamless File Sharing with One Tap",
+  "challenge": [
+    "Designed and developed a Flutter-based mobile app to share files wirelessly.",
+    "Integrated Firebase Storage for temporary cloud file hosting.",
+    "Built a real-time QR code based connection system for sender and receiver.",
+    "Implemented share via link, device-to-device transfer, and offline sharing.",
+    "Ensured cross-platform support for Android and iOS.",
+    "Handled large file uploads and downloads with progress indicators."
+  ],
+  "challengeImages": [
+    "/assets/img/portfolio/moveit-1.jpg",
+    "/assets/img/portfolio/moveit-2.jpg"
+  ],
+  "results": [
+    "Users can share files quickly via device scan or instant sharing links.",
+    "No need for login – optional sign-in for cloud history and resume feature.",
+    "Transfer works on WiFi, Hotspot, or Internet with smart fallback system.",
+    "Minimalist and clean UI designed for smooth UX.",
+    "Hundreds of daily file transfers with secure encryption in transit.",
+    "Realtime transfer status and auto-delete after expiry."
+  ],
+  "skills": {
+    "Flutter UI/UX": "95%",
+    "Firebase Storage": "92%",
+    "Cross-Platform Compatibility": "97%",
+    "Realtime Sharing Logic": "93%",
+    "File Encryption & Transfer": "91%"
+  },
+  "slides": [
+    "/assets/img/blog/moveit-slide1.jpg",
+    "/assets/img/blog/moveit-slide2.jpg"
+  ]
+}
+
+]

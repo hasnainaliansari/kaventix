@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "slug": "artificial-intelligence-guide",
+    "author": "Alex Carter",
+    "date": "2024-12-10",
+    "title": "Artificial Intelligence (AI): The Future of Technology",
+    "paragraphs": [
+      "Artificial Intelligence (AI) is revolutionizing industries, from healthcare to finance, by enabling machines to perform tasks that once required human intelligence. With advancements in machine learning and deep learning, AI is becoming smarter, faster, and more accessible.",
+      "AI-powered tools like chatbots, recommendation systems, and autonomous vehicles are transforming how we live and work. Businesses leveraging AI gain a competitive edge through automation, predictive analytics, and enhanced decision-making."
+    ],
+    "subheading": "How Does AI Work?",
+    "images": [
+      "/assets/img/blog/blog-details-artificial-intelligence-guide.png",
+      "/assets/img/blog/blog-details-artificial-intelligence-guide-2.png",
+      "/assets/img/blog/blog-details-artificial-intelligence-guide-3.png"
+    ],
+    "additionalParagraph": "AI systems rely on vast datasets and algorithms to recognize patterns, make predictions, and improve over time. Neural networks, a key component of deep learning, mimic the human brain to process complex information.",
+    "listItems": [
+      "**Machine Learning (ML):** AI learns from data without explicit programming.",
+      "**Natural Language Processing (NLP):** Powers voice assistants like Siri and Alexa.",
+      "**Computer Vision:** Enables facial recognition and self-driving cars.",
+      "**Robotics:** AI-driven robots automate manufacturing and logistics.",
+      "**Predictive Analytics:** Helps businesses forecast trends and customer behavior."
+    ],
+    "highlightQuote": "AI is not just the future—it’s the present, reshaping industries and everyday life.",
+    "finalParagraph": "As AI continues to evolve, ethical considerations, data privacy, and responsible AI development will play crucial roles in ensuring its benefits are maximized while minimizing risks."
+  }
+]
