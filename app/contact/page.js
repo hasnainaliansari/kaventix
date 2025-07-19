@@ -261,7 +261,7 @@ export default function Contact() {
                       <input
                         type="hidden"
                         name="_next"
-                        value="http://localhost:3000/thank-you"
+                        value="https://kaventix.vercel.app/thank-you"
                       />
                       <input type="hidden" name="_captcha" value="false" />
 
